@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1606867264 source:c:\users\aaròn\desktop\upiita\semestre 3\programacion orientada a objetos\racionales\main.cpp
+	<iostream>
+	<string>
+	"Racional.h"
+	<clocale>
+
+1606864858 c:\users\aaròn\desktop\upiita\semestre 3\programacion orientada a objetos\racionales\include\racional.h
+	<string>
+
+1606867233 source:c:\users\aaròn\desktop\upiita\semestre 3\programacion orientada a objetos\racionales\src\racional.cpp
+	"Racional.h"
+	<iostream>
+	<sstream>
+	<string>
+
