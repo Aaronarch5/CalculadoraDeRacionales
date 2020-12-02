@@ -73,6 +73,19 @@ int main()
 
         }
 
+    if(selector!=5)
+       {
+    cout<<"¿Desea continuar calculando racionales?"<<endl;
+    cout<<"Si (s) y No(n)"<<endl;
+    char continuar{0};
+    cin>>continuar;
+    if(continuar=='n')
+       {
+           break;
+       }
+
+
+        }
     }
 
     while(salir==0);
